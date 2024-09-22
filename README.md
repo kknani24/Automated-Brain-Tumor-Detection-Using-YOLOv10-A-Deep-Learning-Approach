@@ -1,0 +1,2 @@
+# Automated-Brain-Tumor-Detection-Using-YOLOv10-A-Deep-Learning-Approach
+This project implements an automated brain tumor detection system using the YOLOv10 deep learning model. It utilizes a robust MRI dataset for training, enabling accurate tumor identification and annotation. An interactive Gradio interface allows users to upload images for real-time predictions, enhancing diagnostic efficiency in medical imaging.
