@@ -205,11 +205,6 @@ This project uses YOLOv10 for detecting brain tumors from MRI scans. We employ R
 
 ## Results
 
-The YOLOv10 model effectively detects brain tumors in MRI scans. Below are example results:
-
-| Input Image | Predicted Output |
-|-------------|------------------|
-| ![MRI Input](images/sample_mri_input.png) | ![MRI Prediction](images/sample_mri_output.png) |
 
 ---
 
