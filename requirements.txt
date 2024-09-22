@@ -1,0 +1,7 @@
+git+https://github.com/THU-MIG/yolov10.git
+roboflow
+ultralytics
+gradio
+matplotlib
+opencv-python-headless
+numpy
